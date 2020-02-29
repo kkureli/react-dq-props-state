@@ -1,0 +1,7 @@
+.buttons {
+    display: flex !important;
+    color: red;
+    margin-left: 40%;
+    font-size: 140%;
+    padding: 2%;
+}
